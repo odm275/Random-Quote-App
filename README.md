@@ -9,7 +9,7 @@ For Information on the API used, check (https://forismatic.com/en/api/).
 
 -Quotes: The quotes are attained from an on line database through a standard Ajax call.
 
--Twitter Button: Enables the quote to be shared on twitter.Check (https://www.google.com/search?client=ubuntu&channel=fs&q=twitter+button&ie=utf-8&oe=utf-8) for further information. 
+-Twitter Button: Enables the quote to be shared on twitter. Check (https://www.google.com/search?client=ubuntu&channel=fs&q=twitter+button&ie=utf-8&oe=utf-8) for further information. 
 
 **Style:**
 
